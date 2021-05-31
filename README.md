@@ -7,8 +7,8 @@ Bernard Tiddeman and Morteza Ghahremani, "Principal Component Wavelet Networks f
 Much of the ADMM code is taken from the original OneNet paper:
 
 Rick Chang, J.; Li, C.L.; Poczos, B.; Vijaya Kumar, B.; Sankaranarayanan, A.C.,
-"One Network to Solve Them353All–Solving Linear Inverse Problems Using Deep Projection Models",
-Proceedings of the IEEE International354Conference on Computer Vision, 2017, pp. 5888–5897.
+"One Network to Solve Them All – Solving Linear Inverse Problems Using Deep Projection Models",
+Proceedings of the IEEE International Conference on Computer Vision, 2017, pp. 5888–5897.
 
 https://github.com/rick-chang/OneNet/tree/master/admm
 
